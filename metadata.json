@@ -1,0 +1,7 @@
+{
+  "name": "QR Menu Creator Pro",
+  "description": "A professional digital menu builder with AI-powered descriptions and instant QR code generation for restaurants and cafes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
